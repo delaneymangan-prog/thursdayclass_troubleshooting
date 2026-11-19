@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://delaneymangan-prog.io',
-  baseUrl: '/thursdayclass-troubleshooting/',
+  baseUrl: '/thursdayclass_troubleshooting/',
   organizationName: 'delaneymangan-prog',
-  projectName: 'thursdayclass-troubleshooting',
+  projectName: 'thursdayclass_troubleshooting',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
