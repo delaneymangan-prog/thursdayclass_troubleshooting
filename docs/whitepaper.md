@@ -14,6 +14,8 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
 
+![A sheep picture](/img/sheep.jpg)
+
 ## 1. Executive Summary {#executive}
 
 The future of Isla Vista is bleak. Rent prices are astronomically high, often forcing multiple people into a single apartment. The parking can only be described as abysmal, with visitors often needing to circle multiple times to find a spot. Erosion is eating away at the cliffs, raising questions about the need for a coastal retreat. Most important, though, is our lack of preparation for the zombie apocalypse. If the undead were to pour onto our streets, we would be left defenseless.
